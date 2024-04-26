@@ -1,0 +1,3 @@
+insert into productos (nombre, marca, descripcion, precio, created_at) values ('audifonos', 'sony', 'Bluetooth', 100.00, NOW());
+insert into productos (nombre, marca, descripcion, precio, created_at) values ('bocina', 'JBL', 'Bluetooth', 500.00, NOW());
+insert into productos (nombre, marca, descripcion, precio, created_at) values ('Laptop Gamer', 'HP Pavilion Gaming', 'Computadora Portatil', 15000.00, NOW());
